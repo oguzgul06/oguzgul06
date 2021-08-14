@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **with other developer on my projects**
 
-- 👨‍💻 All of my projects are available at [oguzgul06](oguzgul06)
+- 👨‍💻 All of my projects are available at [**https://github.com/oguzgul06?tab=repositories**]
 
 - 💬 Ask me about **react, react-native and mern stack**
 
