@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **with other developer**
 
-- 🤝 I’m looking for help with **with other developer on my projects**
+- 🤝 I’m looking for help **with other developer on my projects**
 
 - 👨‍💻 All of my projects are available at [**https://github.com/oguzgul06?tab=repositories**]
 
