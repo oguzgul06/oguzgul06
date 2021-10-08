@@ -15,13 +15,10 @@
 
 - 🤝 I’m looking for help **with other developer on my projects**
 
-- 👨‍💻 All of my projects are available at [**https://github.com/oguzgul06?tab=repositories**]
-
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **ogzgl06@gmail.com**
 
-- 🥅 2021 Goals: **Remote worker at foreign country**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
