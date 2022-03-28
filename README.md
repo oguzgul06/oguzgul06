@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **React** and **Angular**
 
-- 🌱 I’m currently learning **everything 🤣 but as the same time learning React.js 🚀**
+- 🌱 I’m currently learning **React.js, AngularJS and NestJS 🚀**
 
 - 👯 I’m looking to collaborate on **with other developer**
 
