@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help **with other developer on my projects**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **react, angular**
 
 - 📫 How to reach me **ogzgl06@gmail.com**
 
